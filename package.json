@@ -1,0 +1,56 @@
+{
+  "name": "@mdbootstrap/react-page-transitions",
+  "version": "1.0.0",
+  "description": "A stunning collection of React page transitions built with Bootstrap 5. Templates for transitions on scroll, slide transitions, animations on click, fading & more.",
+  "dependencies": {
+    "mdb-react-ui-kit": "^4.0.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "template",
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "js",
+    "page",
+    "transitions",
+    "page-transitions"
+  ],
+  "author": "MDBootstrap",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-page-transitions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-page-transitions/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/page-transitions"
+}
